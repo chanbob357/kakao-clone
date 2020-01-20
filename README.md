@@ -1,4 +1,3 @@
 # kakao-clone
 
-kakao Desktop App clone
-I am Chan Yoon Jung.
+kakao Desktop App clone 
